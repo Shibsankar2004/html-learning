@@ -1,5 +1,5 @@
-### HTML Learning Outcomes ###
-#Through this project, I learned:
+### HTML Learning Outcomes ###,
+#Through this project, I learned:,
 
 # HTML5 Page Structure,
 # Semantic HTML Elements,
